@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Vaso Geométrico",
+    "preco": "R$ 15,00",
+    "tempo": "4h 30min",
+    "gasto": "45g de PLA",
+    "imagens": [
+      "url_foto_frente.jpg",
+      "url_foto_lado.jpg",
+      "url_foto_detalhe.jpg"
+    ]
+  }
+]
